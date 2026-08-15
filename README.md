@@ -1,6 +1,7 @@
 # Next-word-and-sentence-predictor
 
 # 🧠 LSTM Next Word Predictor
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nextwordpy-ep3zvape3v8ggp4bxdy3xg.streamlit.app/)
 
 An interactive **Next Word Prediction and Text Generation** application built using **LSTM (Long Short-Term Memory)**, TensorFlow, Keras, and Streamlit.
 
